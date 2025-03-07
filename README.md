@@ -1,4 +1,4 @@
-# blue-ocean-society-club
+# blue ocean society club
 
  <a href=“https://blueoceansociety.club”>Blue Ocean Society Club</a>
 
